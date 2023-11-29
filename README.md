@@ -1,5 +1,7 @@
 ![Alt text](<Screenshot (153).png>)
 
+You can visit this app on - https://jsm-gym.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
